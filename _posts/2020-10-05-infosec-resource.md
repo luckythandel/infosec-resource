@@ -1,3 +1,7 @@
+---
+title: Infosec-Resource
+updated: 2020-10-05 2:30
+---
 # Cybersecurity Resources
 
 1. [TheHackReport](https://thehackreport.com/)  → THR is the best cybersecurity news site that updates on regular basics.
